@@ -2,7 +2,7 @@ Trigonometric animations | p5js
 =================
 Random animations powered by a rotating a particle system using modified trigonometric functions.
 
-
+A live demo can be found [here](http://trigo.glitch.me/).
 
 Built with [p5.js](https://p5js.org/).
 
