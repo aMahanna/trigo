@@ -6,10 +6,10 @@ A live demo can be found [here](http://trigo.glitch.me/).
 
 Built with [p5.js](https://p5js.org/).
 
-![img1](imgs/img1.jpg)
+![img1](imgs/img1.png)
 
-![img2](imgs/img2.jpg)
+![img2](imgs/img2.png)
 
-![img3](imgs/img3.jpg)
+![img3](imgs/img3.png)
 
-![img4](imgs/img4.jpg)
+![img4](imgs/img4.png)
