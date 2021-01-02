@@ -1,6 +1,6 @@
 Trigo | p5js 
 =================
-Processing Animations powered by a rotating a particle system using modified trigonometric functions and RNGs. 
+Processing Animations powered by a rotating a particle system using trigonometry and random number generators. 
 
 A live demo can be found [here](https://mahanna.dev/trigo/src).
 
