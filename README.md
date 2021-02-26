@@ -2,7 +2,9 @@ Trigo | p5js
 =================
 Processing Animations powered by a rotating a particle system using trigonometry and random number generators. 
 
-A live demo can be found [here](https://mahanna.dev/trigo/src).
+A live demo can be found [here](https://mahanna.dev/trigo/src/view).
+
+A "workshop" version, allowing you to modify the animation's movement variables, can be found [here](https://mahanna.dev/trigo/src/workshop)
 
 Built with [p5.js](https://p5js.org/).
 
