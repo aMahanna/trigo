@@ -1,4 +1,4 @@
-Trigo | p5js 
+trigo 
 =================
 Trigonometry-based art.
 
