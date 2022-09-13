@@ -94,7 +94,7 @@ function setAnimationVariables() {
   // rotateMultiplicand = 4;
   
   //console.log("trig: ", trigDivisor);
-  console.log("x: ", xModifier);
+  // console.log("x: ", xModifier);
 
 }
 

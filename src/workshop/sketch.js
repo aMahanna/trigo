@@ -189,7 +189,7 @@ function callMeTrippy() {
     strokeWeight(1);
     stroke(strkValue, strkValue, strkValue, 200);
   }
-  console.log(x)
+
   if (trigFunctionRadio.value() == 1) {
     trigEquation = sin(x/trigDivisorSlider.value());
   } else if (trigFunctionRadio.value() == 2) {
